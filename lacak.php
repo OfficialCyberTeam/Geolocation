@@ -42,7 +42,7 @@ echo "City : {$ubah->city}\n";
 echo "Zip : {$ubah->zip}\n";
 echo "Latitude : {$ubah->latitude}\n";
 echo "Longitude : {$ubah->longitude}\n";
-echo "Geoname Id : {$ubah->location->geoname_is}\n";
+echo "Geoname Id : {$ubah->location->geoname_id}\n";
 echo "Flag Emoji : {$ubah->location->country_flag_emoji}\n";
 echo "Calling Code : {$ubah->location->calling_code}\n";
 
